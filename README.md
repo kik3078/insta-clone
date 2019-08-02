@@ -13,9 +13,14 @@ insta-clone
 - [x] Search by location
 - [x] Follow User
 - [x] Unfollow User
-- [ ] Edit my profile
-- [ ] See user profile
-- [ ] See the full photo
-- [ ] Upload a photo
+- [x] Edit my profile
+- [x] See user profile
+- [x] See MY profile
+- [x] See the full photo
+- [x] Upload a photo
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
+- [ ] See rooms
+- [ ] See room
+- [ ] Send private Message
+- [ ] Receive Message (Realtime)

@@ -1,6 +1,6 @@
 import { prisma } from "../../../generated/prisma-client";
 
-export default{
+export default {
     User: {
         posts: ({ id }) => prisma.user({ id }).posts(),
         following: ({ id }) => prisma.user({ id }).following(),
